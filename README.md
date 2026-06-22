@@ -1,2 +1,66 @@
 # LEETCODE
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🚀 The Placement Journey
+
+> From "Hello World" to Software Engineer.
+
+This repository documents my journey of mastering Data Structures & Algorithms,
+one problem at a time.
+
+Every folder represents a skill.
+Every solution represents a lesson.
+Every mistake represents growth.
+
+---
+
+## 🎯 Mission
+
+Target: Become interview-ready through consistent problem solving.
+
+Current Status:
+
+🟢 Learning
+🟢 Building
+🟢 Improving
+🔄 Grinding
+
+---
+
+## 📍 Journey Map
+
+[Level 1] Foundations
+├── Arrays
+├── Strings
+├── Hashing
+└── Linked List
+
+[Level 2] Problem Solving
+├── Stack
+├── Queue
+├── Binary Search
+├── Sliding Window
+└── Two Pointers
+
+[Level 3] Advanced DSA
+├── Trees
+├── Graphs
+├── Heap
+└── Greedy
+
+[Level 4] Interview Boss
+├── Dynamic Programming
+├── Tries
+└── Hard Problems
+
+---
+
+## ⚔️ Progress Log
+
+□ 50 Problems
+□ 100 Problems
+□ 250 Problems
+□ 500 Problems
+□ Placement Ready
+
+---
+
+"Trust the process."
