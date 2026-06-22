@@ -75,11 +75,13 @@ Current Status:
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/RajGahoi/LEETCODE/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/RajGahoi/LEETCODE/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RajGahoi/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/RajGahoi/LEETCODE/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -90,4 +92,5 @@ Current Status:
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RajGahoi/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/RajGahoi/LEETCODE/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
