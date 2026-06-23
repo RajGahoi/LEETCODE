@@ -70,6 +70,7 @@ Current Status:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RajGahoi/LEETCODE/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/RajGahoi/LEETCODE/tree/master/0066-plus-one) |
 | [0414-third-maximum-number](https://github.com/RajGahoi/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0495-teemo-attacking](https://github.com/RajGahoi/LEETCODE/tree/master/0495-teemo-attacking) |
@@ -83,6 +84,7 @@ Current Status:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RajGahoi/LEETCODE/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/RajGahoi/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/RajGahoi/LEETCODE/tree/master/0202-happy-number) |
