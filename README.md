@@ -79,6 +79,7 @@ Current Status:
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/RajGahoi/LEETCODE/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/RajGahoi/LEETCODE/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/RajGahoi/LEETCODE/tree/master/0202-happy-number) |
 | [0445-add-two-numbers-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0445-add-two-numbers-ii) |
