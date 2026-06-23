@@ -71,6 +71,7 @@ Current Status:
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/RajGahoi/LEETCODE/tree/master/0066-plus-one) |
+| [0414-third-maximum-number](https://github.com/RajGahoi/LEETCODE/tree/master/0414-third-maximum-number) |
 | [2574-left-and-right-sum-differences](https://github.com/RajGahoi/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 ## Math
 |  |
@@ -111,4 +112,8 @@ Current Status:
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/RajGahoi/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/RajGahoi/LEETCODE/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
