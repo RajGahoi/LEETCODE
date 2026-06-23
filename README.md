@@ -94,6 +94,7 @@ Current Status:
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/RajGahoi/LEETCODE/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/RajGahoi/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/RajGahoi/LEETCODE/tree/master/0234-palindrome-linked-list) |
@@ -101,6 +102,7 @@ Current Status:
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/RajGahoi/LEETCODE/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/RajGahoi/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/RajGahoi/LEETCODE/tree/master/0202-happy-number) |
