@@ -97,6 +97,7 @@ Current Status:
 | [0086-partition-list](https://github.com/RajGahoi/LEETCODE/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/RajGahoi/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/RajGahoi/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/RajGahoi/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 ## Two Pointers
@@ -115,6 +116,7 @@ Current Status:
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/RajGahoi/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/RajGahoi/LEETCODE/tree/master/0234-palindrome-linked-list) |
 ## Prefix Sum
 |  |
