@@ -83,6 +83,7 @@ Current Status:
 | [0009-palindrome-number](https://github.com/RajGahoi/LEETCODE/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/RajGahoi/LEETCODE/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/RajGahoi/LEETCODE/tree/master/0202-happy-number) |
+| [0342-power-of-four](https://github.com/RajGahoi/LEETCODE/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/RajGahoi/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Hash Table
@@ -128,6 +129,7 @@ Current Status:
 | [0203-remove-linked-list-elements](https://github.com/RajGahoi/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RajGahoi/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RajGahoi/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/RajGahoi/LEETCODE/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/RajGahoi/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
@@ -157,4 +159,8 @@ Current Status:
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/RajGahoi/LEETCODE/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/RajGahoi/LEETCODE/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
