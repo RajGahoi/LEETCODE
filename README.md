@@ -75,6 +75,7 @@ Current Status:
 | [0066-plus-one](https://github.com/RajGahoi/LEETCODE/tree/master/0066-plus-one) |
 | [0414-third-maximum-number](https://github.com/RajGahoi/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0495-teemo-attacking](https://github.com/RajGahoi/LEETCODE/tree/master/0495-teemo-attacking) |
+| [2540-minimum-common-value](https://github.com/RajGahoi/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/RajGahoi/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RajGahoi/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
@@ -95,6 +96,7 @@ Current Status:
 | [0141-linked-list-cycle](https://github.com/RajGahoi/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/RajGahoi/LEETCODE/tree/master/0202-happy-number) |
+| [2540-minimum-common-value](https://github.com/RajGahoi/LEETCODE/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RajGahoi/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
@@ -119,6 +121,7 @@ Current Status:
 | [0143-reorder-list](https://github.com/RajGahoi/LEETCODE/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/RajGahoi/LEETCODE/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/RajGahoi/LEETCODE/tree/master/0234-palindrome-linked-list) |
+| [2540-minimum-common-value](https://github.com/RajGahoi/LEETCODE/tree/master/2540-minimum-common-value) |
 ## Stack
 |  |
 | ------- |
@@ -151,6 +154,7 @@ Current Status:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RajGahoi/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [2540-minimum-common-value](https://github.com/RajGahoi/LEETCODE/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
