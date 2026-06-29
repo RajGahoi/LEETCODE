@@ -129,6 +129,7 @@ Current Status:
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RajGahoi/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/RajGahoi/LEETCODE/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/RajGahoi/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0445-add-two-numbers-ii) |
@@ -187,6 +188,7 @@ Current Status:
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/RajGahoi/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/RajGahoi/LEETCODE/tree/master/0020-valid-parentheses) |
 | [1528-shuffle-string](https://github.com/RajGahoi/LEETCODE/tree/master/1528-shuffle-string) |
 ## Trie
 |  |
