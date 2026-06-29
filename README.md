@@ -94,6 +94,7 @@ Current Status:
 | [0445-add-two-numbers-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/RajGahoi/LEETCODE/tree/master/0509-fibonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RajGahoi/LEETCODE/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1922-count-good-numbers](https://github.com/RajGahoi/LEETCODE/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@ Current Status:
 | [0234-palindrome-linked-list](https://github.com/RajGahoi/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/RajGahoi/LEETCODE/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/RajGahoi/LEETCODE/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/RajGahoi/LEETCODE/tree/master/1922-count-good-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
