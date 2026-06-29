@@ -88,6 +88,7 @@ Current Status:
 | [0009-palindrome-number](https://github.com/RajGahoi/LEETCODE/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/RajGahoi/LEETCODE/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/RajGahoi/LEETCODE/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/RajGahoi/LEETCODE/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/RajGahoi/LEETCODE/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/RajGahoi/LEETCODE/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0445-add-two-numbers-ii) |
@@ -155,6 +156,7 @@ Current Status:
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RajGahoi/LEETCODE/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/RajGahoi/LEETCODE/tree/master/0495-teemo-attacking) |
 ## Binary Search
 |  |
@@ -176,6 +178,7 @@ Current Status:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/RajGahoi/LEETCODE/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/RajGahoi/LEETCODE/tree/master/0342-power-of-four) |
 ## Counting
 |  |
@@ -191,6 +194,7 @@ Current Status:
 | [0014-longest-common-prefix](https://github.com/RajGahoi/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/RajGahoi/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RajGahoi/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/RajGahoi/LEETCODE/tree/master/0067-add-binary) |
 | [1528-shuffle-string](https://github.com/RajGahoi/LEETCODE/tree/master/1528-shuffle-string) |
 ## Trie
 |  |
