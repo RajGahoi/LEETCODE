@@ -72,6 +72,7 @@ Current Status:
 | ------- |
 | [0001-two-sum](https://github.com/RajGahoi/LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/RajGahoi/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/RajGahoi/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/RajGahoi/LEETCODE/tree/master/0066-plus-one) |
 | [0414-third-maximum-number](https://github.com/RajGahoi/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0495-teemo-attacking](https://github.com/RajGahoi/LEETCODE/tree/master/0495-teemo-attacking) |
@@ -185,5 +186,10 @@ Current Status:
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/RajGahoi/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [1528-shuffle-string](https://github.com/RajGahoi/LEETCODE/tree/master/1528-shuffle-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/RajGahoi/LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
