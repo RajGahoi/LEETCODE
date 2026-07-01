@@ -80,6 +80,7 @@ Current Status:
 | [1528-shuffle-string](https://github.com/RajGahoi/LEETCODE/tree/master/1528-shuffle-string) |
 | [2540-minimum-common-value](https://github.com/RajGahoi/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/RajGahoi/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/RajGahoi/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RajGahoi/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
@@ -166,6 +167,7 @@ Current Status:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RajGahoi/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [2540-minimum-common-value](https://github.com/RajGahoi/LEETCODE/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/RajGahoi/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -212,4 +214,20 @@ Current Status:
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RajGahoi/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/RajGahoi/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/RajGahoi/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/RajGahoi/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/RajGahoi/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
