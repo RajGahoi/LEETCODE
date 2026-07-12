@@ -79,6 +79,7 @@ Current Status:
 | [0495-teemo-attacking](https://github.com/RajGahoi/LEETCODE/tree/master/0495-teemo-attacking) |
 | [1020-number-of-enclaves](https://github.com/RajGahoi/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RajGahoi/LEETCODE/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1331-rank-transform-of-an-array](https://github.com/RajGahoi/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1528-shuffle-string](https://github.com/RajGahoi/LEETCODE/tree/master/1528-shuffle-string) |
 | [2540-minimum-common-value](https://github.com/RajGahoi/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/RajGahoi/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
@@ -110,6 +111,7 @@ Current Status:
 | [0142-linked-list-cycle-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/RajGahoi/LEETCODE/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0229-majority-element-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/RajGahoi/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RajGahoi/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/RajGahoi/LEETCODE/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RajGahoi/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -170,6 +172,7 @@ Current Status:
 | ------- |
 | [0229-majority-element-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/RajGahoi/LEETCODE/tree/master/0414-third-maximum-number) |
+| [1331-rank-transform-of-an-array](https://github.com/RajGahoi/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 ## Simulation
 |  |
 | ------- |
