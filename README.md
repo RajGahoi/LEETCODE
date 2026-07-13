@@ -259,4 +259,8 @@ Current Status:
 |  |
 | ------- |
 | [1020-number-of-enclaves](https://github.com/RajGahoi/LEETCODE/tree/master/1020-number-of-enclaves) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/RajGahoi/LEETCODE/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
