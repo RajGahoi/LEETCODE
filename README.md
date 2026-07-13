@@ -239,6 +239,7 @@ Current Status:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/RajGahoi/LEETCODE/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1020-number-of-enclaves](https://github.com/RajGahoi/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RajGahoi/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
@@ -277,4 +278,8 @@ Current Status:
 | ------- |
 | [0292-nim-game](https://github.com/RajGahoi/LEETCODE/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/RajGahoi/LEETCODE/tree/master/1025-divisor-game) |
+## Backtracking
+|  |
+| ------- |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/RajGahoi/LEETCODE/tree/master/0967-numbers-with-same-consecutive-differences) |
 <!---LeetCode Topics End-->
