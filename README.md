@@ -152,6 +152,7 @@ Current Status:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RajGahoi/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/RajGahoi/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/RajGahoi/LEETCODE/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/RajGahoi/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0445-add-two-numbers-ii) |
@@ -263,6 +264,7 @@ Current Status:
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RajGahoi/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/RajGahoi/LEETCODE/tree/master/1020-number-of-enclaves) |
 ## Enumeration
 |  |
@@ -282,4 +284,12 @@ Current Status:
 |  |
 | ------- |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/RajGahoi/LEETCODE/tree/master/0967-numbers-with-same-consecutive-differences) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RajGahoi/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/RajGahoi/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
