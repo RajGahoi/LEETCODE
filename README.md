@@ -242,6 +242,7 @@ Current Status:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/RajGahoi/LEETCODE/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1020-number-of-enclaves](https://github.com/RajGahoi/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RajGahoi/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -267,6 +268,7 @@ Current Status:
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RajGahoi/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RajGahoi/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RajGahoi/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/RajGahoi/LEETCODE/tree/master/1020-number-of-enclaves) |
@@ -292,12 +294,14 @@ Current Status:
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RajGahoi/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RajGahoi/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RajGahoi/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RajGahoi/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RajGahoi/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RajGahoi/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
