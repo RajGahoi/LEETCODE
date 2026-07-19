@@ -163,6 +163,7 @@ Current Status:
 | [0145-binary-tree-postorder-traversal](https://github.com/RajGahoi/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/RajGahoi/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/RajGahoi/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Recursion
 |  |
 | ------- |
@@ -232,6 +233,7 @@ Current Status:
 | [0020-valid-parentheses](https://github.com/RajGahoi/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RajGahoi/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/RajGahoi/LEETCODE/tree/master/0067-add-binary) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/RajGahoi/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RajGahoi/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/RajGahoi/LEETCODE/tree/master/1528-shuffle-string) |
 ## Trie
@@ -335,4 +337,12 @@ Current Status:
 | [0145-binary-tree-postorder-traversal](https://github.com/RajGahoi/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/RajGahoi/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/RajGahoi/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
