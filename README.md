@@ -79,6 +79,7 @@ Current Status:
 | [0495-teemo-attacking](https://github.com/RajGahoi/LEETCODE/tree/master/0495-teemo-attacking) |
 | [1020-number-of-enclaves](https://github.com/RajGahoi/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RajGahoi/LEETCODE/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1260-shift-2d-grid](https://github.com/RajGahoi/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/RajGahoi/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1528-shuffle-string](https://github.com/RajGahoi/LEETCODE/tree/master/1528-shuffle-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RajGahoi/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -191,6 +192,7 @@ Current Status:
 | ------- |
 | [0067-add-binary](https://github.com/RajGahoi/LEETCODE/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/RajGahoi/LEETCODE/tree/master/0495-teemo-attacking) |
+| [1260-shift-2d-grid](https://github.com/RajGahoi/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RajGahoi/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -272,6 +274,7 @@ Current Status:
 |  |
 | ------- |
 | [1020-number-of-enclaves](https://github.com/RajGahoi/LEETCODE/tree/master/1020-number-of-enclaves) |
+| [1260-shift-2d-grid](https://github.com/RajGahoi/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RajGahoi/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Number Theory
 |  |
