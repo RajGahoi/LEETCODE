@@ -238,6 +238,7 @@ Current Status:
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RajGahoi/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RajGahoi/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/RajGahoi/LEETCODE/tree/master/1528-shuffle-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/RajGahoi/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Trie
 |  |
 | ------- |
@@ -300,6 +301,7 @@ Current Status:
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/RajGahoi/LEETCODE/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/RajGahoi/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Brainteaser
 |  |
 | ------- |
