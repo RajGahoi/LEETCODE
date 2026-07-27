@@ -354,6 +354,7 @@ Current Status:
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -370,6 +371,7 @@ Current Status:
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -390,4 +392,5 @@ Current Status:
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
