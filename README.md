@@ -82,6 +82,7 @@ Current Status:
 | [1232-check-if-it-is-a-straight-line](https://github.com/RajGahoi/LEETCODE/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/RajGahoi/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/RajGahoi/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RajGahoi/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/RajGahoi/LEETCODE/tree/master/1528-shuffle-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RajGahoi/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2540-minimum-common-value](https://github.com/RajGahoi/LEETCODE/tree/master/2540-minimum-common-value) |
@@ -195,6 +196,7 @@ Current Status:
 | [0414-third-maximum-number](https://github.com/RajGahoi/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RajGahoi/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/RajGahoi/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RajGahoi/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/RajGahoi/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RajGahoi/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -285,6 +287,7 @@ Current Status:
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RajGahoi/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RajGahoi/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
