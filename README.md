@@ -117,6 +117,7 @@ Current Status:
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/RajGahoi/LEETCODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RajGahoi/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RajGahoi/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/RajGahoi/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/RajGahoi/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RajGahoi/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -133,6 +134,7 @@ Current Status:
 | [2540-minimum-common-value](https://github.com/RajGahoi/LEETCODE/tree/master/2540-minimum-common-value) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RajGahoi/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/RajGahoi/LEETCODE/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/RajGahoi/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -239,6 +241,7 @@ Current Status:
 | ------- |
 | [0229-majority-element-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0229-majority-element-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RajGahoi/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/RajGahoi/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -257,6 +260,7 @@ Current Status:
 | [3499-maximize-active-section-with-trade-i](https://github.com/RajGahoi/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RajGahoi/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RajGahoi/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/RajGahoi/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Trie
 |  |
 | ------- |
@@ -399,4 +403,8 @@ Current Status:
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RajGahoi/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/RajGahoi/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
