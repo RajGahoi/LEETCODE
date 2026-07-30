@@ -115,6 +115,7 @@ Current Status:
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RajGahoi/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/RajGahoi/LEETCODE/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/RajGahoi/LEETCODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RajGahoi/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RajGahoi/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/RajGahoi/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RajGahoi/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -257,6 +258,7 @@ Current Status:
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RajGahoi/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RajGahoi/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/RajGahoi/LEETCODE/tree/master/1528-shuffle-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RajGahoi/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/RajGahoi/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/RajGahoi/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RajGahoi/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -382,6 +384,7 @@ Current Status:
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RajGahoi/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RajGahoi/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Monotonic Stack
 |  |
 | ------- |
