@@ -79,6 +79,7 @@ Current Status:
 | [0486-predict-the-winner](https://github.com/RajGahoi/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/RajGahoi/LEETCODE/tree/master/0495-teemo-attacking) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RajGahoi/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/RajGahoi/LEETCODE/tree/master/0877-stone-game) |
 | [1020-number-of-enclaves](https://github.com/RajGahoi/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RajGahoi/LEETCODE/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/RajGahoi/LEETCODE/tree/master/1260-shift-2d-grid) |
@@ -111,6 +112,7 @@ Current Status:
 | [0486-predict-the-winner](https://github.com/RajGahoi/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/RajGahoi/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RajGahoi/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/RajGahoi/LEETCODE/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/RajGahoi/LEETCODE/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RajGahoi/LEETCODE/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1922-count-good-numbers](https://github.com/RajGahoi/LEETCODE/tree/master/1922-count-good-numbers) |
@@ -231,6 +233,7 @@ Current Status:
 | ------- |
 | [0486-predict-the-winner](https://github.com/RajGahoi/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/RajGahoi/LEETCODE/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/RajGahoi/LEETCODE/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/RajGahoi/LEETCODE/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
@@ -350,6 +353,7 @@ Current Status:
 | ------- |
 | [0292-nim-game](https://github.com/RajGahoi/LEETCODE/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/RajGahoi/LEETCODE/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/RajGahoi/LEETCODE/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/RajGahoi/LEETCODE/tree/master/1025-divisor-game) |
 ## Backtracking
 |  |
