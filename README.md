@@ -301,6 +301,7 @@ Current Status:
 | [0967-numbers-with-same-consecutive-differences](https://github.com/RajGahoi/LEETCODE/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1020-number-of-enclaves](https://github.com/RajGahoi/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RajGahoi/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/RajGahoi/LEETCODE/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -340,6 +341,7 @@ Current Status:
 | [0543-diameter-of-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [1020-number-of-enclaves](https://github.com/RajGahoi/LEETCODE/tree/master/1020-number-of-enclaves) |
+| [3310-remove-methods-from-project](https://github.com/RajGahoi/LEETCODE/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
 | ------- |
@@ -427,4 +429,8 @@ Current Status:
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RajGahoi/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/RajGahoi/LEETCODE/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
