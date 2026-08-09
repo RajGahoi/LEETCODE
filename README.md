@@ -81,6 +81,7 @@ Current Status:
 | [0628-maximum-product-of-three-numbers](https://github.com/RajGahoi/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/RajGahoi/LEETCODE/tree/master/0877-stone-game) |
 | [1020-number-of-enclaves](https://github.com/RajGahoi/LEETCODE/tree/master/1020-number-of-enclaves) |
+| [1140-stone-game-ii](https://github.com/RajGahoi/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RajGahoi/LEETCODE/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/RajGahoi/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/RajGahoi/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -115,6 +116,7 @@ Current Status:
 | [0628-maximum-product-of-three-numbers](https://github.com/RajGahoi/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/RajGahoi/LEETCODE/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/RajGahoi/LEETCODE/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/RajGahoi/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RajGahoi/LEETCODE/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1922-count-good-numbers](https://github.com/RajGahoi/LEETCODE/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RajGahoi/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -202,6 +204,7 @@ Current Status:
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/RajGahoi/LEETCODE/tree/master/1140-stone-game-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/RajGahoi/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
 |  |
@@ -241,6 +244,7 @@ Current Status:
 | [0509-fibonacci-number](https://github.com/RajGahoi/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/RajGahoi/LEETCODE/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/RajGahoi/LEETCODE/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/RajGahoi/LEETCODE/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RajGahoi/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
 |  |
@@ -368,6 +372,7 @@ Current Status:
 | [0486-predict-the-winner](https://github.com/RajGahoi/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/RajGahoi/LEETCODE/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/RajGahoi/LEETCODE/tree/master/1025-divisor-game) |
+| [1140-stone-game-ii](https://github.com/RajGahoi/LEETCODE/tree/master/1140-stone-game-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -444,4 +449,12 @@ Current Status:
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/RajGahoi/LEETCODE/tree/master/3310-remove-methods-from-project) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/RajGahoi/LEETCODE/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/RajGahoi/LEETCODE/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
