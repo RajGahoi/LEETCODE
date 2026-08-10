@@ -118,6 +118,7 @@ Current Status:
 | [1025-divisor-game](https://github.com/RajGahoi/LEETCODE/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/RajGahoi/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RajGahoi/LEETCODE/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1510-stone-game-iv](https://github.com/RajGahoi/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1922-count-good-numbers](https://github.com/RajGahoi/LEETCODE/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RajGahoi/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/RajGahoi/LEETCODE/tree/master/2769-find-the-maximum-achievable-number) |
@@ -245,6 +246,7 @@ Current Status:
 | [0877-stone-game](https://github.com/RajGahoi/LEETCODE/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/RajGahoi/LEETCODE/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/RajGahoi/LEETCODE/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/RajGahoi/LEETCODE/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RajGahoi/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
 |  |
@@ -373,6 +375,7 @@ Current Status:
 | [0877-stone-game](https://github.com/RajGahoi/LEETCODE/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/RajGahoi/LEETCODE/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/RajGahoi/LEETCODE/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/RajGahoi/LEETCODE/tree/master/1510-stone-game-iv) |
 ## Backtracking
 |  |
 | ------- |
@@ -453,8 +456,18 @@ Current Status:
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/RajGahoi/LEETCODE/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/RajGahoi/LEETCODE/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/RajGahoi/LEETCODE/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/RajGahoi/LEETCODE/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RajGahoi/LEETCODE/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/RajGahoi/LEETCODE/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
