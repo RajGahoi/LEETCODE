@@ -88,6 +88,7 @@ Current Status:
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RajGahoi/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/RajGahoi/LEETCODE/tree/master/1528-shuffle-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RajGahoi/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/RajGahoi/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RajGahoi/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2540-minimum-common-value](https://github.com/RajGahoi/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/RajGahoi/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
@@ -125,6 +126,7 @@ Current Status:
 | [1510-stone-game-iv](https://github.com/RajGahoi/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1922-count-good-numbers](https://github.com/RajGahoi/LEETCODE/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RajGahoi/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/RajGahoi/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2769-find-the-maximum-achievable-number](https://github.com/RajGahoi/LEETCODE/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/RajGahoi/LEETCODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RajGahoi/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -272,6 +274,7 @@ Current Status:
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0229-majority-element-ii) |
+| [2029-stone-game-ix](https://github.com/RajGahoi/LEETCODE/tree/master/2029-stone-game-ix) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/RajGahoi/LEETCODE/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RajGahoi/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/RajGahoi/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -389,6 +392,7 @@ Current Status:
 | [1025-divisor-game](https://github.com/RajGahoi/LEETCODE/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/RajGahoi/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RajGahoi/LEETCODE/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/RajGahoi/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -432,6 +436,7 @@ Current Status:
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RajGahoi/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/RajGahoi/LEETCODE/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RajGahoi/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RajGahoi/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RajGahoi/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -471,15 +476,18 @@ Current Status:
 | ------- |
 | [1140-stone-game-ii](https://github.com/RajGahoi/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RajGahoi/LEETCODE/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/RajGahoi/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/RajGahoi/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RajGahoi/LEETCODE/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/RajGahoi/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/RajGahoi/LEETCODE/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/RajGahoi/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
