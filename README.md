@@ -88,6 +88,7 @@ Current Status:
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RajGahoi/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/RajGahoi/LEETCODE/tree/master/1528-shuffle-string) |
 | [1563-stone-game-v](https://github.com/RajGahoi/LEETCODE/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/RajGahoi/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RajGahoi/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/RajGahoi/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RajGahoi/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -129,6 +130,7 @@ Current Status:
 | [1232-check-if-it-is-a-straight-line](https://github.com/RajGahoi/LEETCODE/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1510-stone-game-iv](https://github.com/RajGahoi/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RajGahoi/LEETCODE/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/RajGahoi/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1922-count-good-numbers](https://github.com/RajGahoi/LEETCODE/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/RajGahoi/LEETCODE/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RajGahoi/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -224,6 +226,7 @@ Current Status:
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/RajGahoi/LEETCODE/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/RajGahoi/LEETCODE/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/RajGahoi/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 ## Sorting
 |  |
@@ -269,6 +272,7 @@ Current Status:
 | [1140-stone-game-ii](https://github.com/RajGahoi/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RajGahoi/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RajGahoi/LEETCODE/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/RajGahoi/LEETCODE/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/RajGahoi/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Memoization
 |  |
@@ -408,6 +412,7 @@ Current Status:
 | [1140-stone-game-ii](https://github.com/RajGahoi/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RajGahoi/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/RajGahoi/LEETCODE/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/RajGahoi/LEETCODE/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RajGahoi/LEETCODE/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/RajGahoi/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Backtracking
@@ -495,12 +500,14 @@ Current Status:
 | ------- |
 | [1140-stone-game-ii](https://github.com/RajGahoi/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RajGahoi/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RajGahoi/LEETCODE/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/RajGahoi/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/RajGahoi/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/RajGahoi/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/RajGahoi/LEETCODE/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/RajGahoi/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
