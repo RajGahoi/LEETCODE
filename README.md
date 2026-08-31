@@ -186,6 +186,7 @@ Current Status:
 | [0206-reverse-linked-list](https://github.com/RajGahoi/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RajGahoi/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/RajGahoi/LEETCODE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/RajGahoi/LEETCODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/RajGahoi/LEETCODE/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
