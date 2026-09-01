@@ -113,6 +113,7 @@ Current Status:
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RajGahoi/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/RajGahoi/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/RajGahoi/LEETCODE/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/RajGahoi/LEETCODE/tree/master/0013-roman-to-integer) |
@@ -175,6 +176,7 @@ Current Status:
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RajGahoi/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RajGahoi/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/RajGahoi/LEETCODE/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/RajGahoi/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -218,6 +220,7 @@ Current Status:
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RajGahoi/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/RajGahoi/LEETCODE/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/RajGahoi/LEETCODE/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/RajGahoi/LEETCODE/tree/master/0203-remove-linked-list-elements) |
