@@ -214,6 +214,7 @@ Current Status:
 | [0143-reorder-list](https://github.com/RajGahoi/LEETCODE/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/RajGahoi/LEETCODE/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/RajGahoi/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/RajGahoi/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/RajGahoi/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0445-add-two-numbers-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RajGahoi/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -538,4 +539,12 @@ Current Status:
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RajGahoi/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/RajGahoi/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/RajGahoi/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
