@@ -406,6 +406,7 @@ Current Status:
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/RajGahoi/LEETCODE/tree/master/0951-flip-equivalent-binary-trees) |
 | [1020-number-of-enclaves](https://github.com/RajGahoi/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [3310-remove-methods-from-project](https://github.com/RajGahoi/LEETCODE/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
@@ -459,6 +460,7 @@ Current Status:
 | [0543-diameter-of-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/RajGahoi/LEETCODE/tree/master/0951-flip-equivalent-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -479,6 +481,7 @@ Current Status:
 | [0543-diameter-of-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/RajGahoi/LEETCODE/tree/master/0951-flip-equivalent-binary-trees) |
 ## Greedy
 |  |
 | ------- |
