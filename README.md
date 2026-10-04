@@ -159,6 +159,7 @@ Current Status:
 | [0142-linked-list-cycle-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/RajGahoi/LEETCODE/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajGahoi/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajGahoi/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1331-rank-transform-of-an-array](https://github.com/RajGahoi/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RajGahoi/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -362,6 +363,7 @@ Current Status:
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0226-invert-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajGahoi/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/RajGahoi/LEETCODE/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1020-number-of-enclaves](https://github.com/RajGahoi/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajGahoi/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -408,6 +410,7 @@ Current Status:
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0572-subtree-of-another-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajGahoi/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/RajGahoi/LEETCODE/tree/master/0951-flip-equivalent-binary-trees) |
 | [1020-number-of-enclaves](https://github.com/RajGahoi/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajGahoi/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -464,6 +467,7 @@ Current Status:
 | [0572-subtree-of-another-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajGahoi/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/RajGahoi/LEETCODE/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajGahoi/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
@@ -487,6 +491,7 @@ Current Status:
 | [0572-subtree-of-another-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajGahoi/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/RajGahoi/LEETCODE/tree/master/0951-flip-equivalent-binary-trees) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajGahoi/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Greedy
@@ -570,13 +575,16 @@ Current Status:
 ## Binary Lifting
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajGahoi/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajGahoi/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajGahoi/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajGahoi/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## DP on Trees
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajGahoi/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajGahoi/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
