@@ -367,6 +367,7 @@ Current Status:
 | [0226-invert-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajGahoi/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajGahoi/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/RajGahoi/LEETCODE/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1020-number-of-enclaves](https://github.com/RajGahoi/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajGahoi/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -476,6 +477,7 @@ Current Status:
 | [0701-insert-into-a-binary-search-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajGahoi/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/RajGahoi/LEETCODE/tree/master/0951-flip-equivalent-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajGahoi/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
@@ -502,6 +504,7 @@ Current Status:
 | [0701-insert-into-a-binary-search-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajGahoi/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/RajGahoi/LEETCODE/tree/master/0951-flip-equivalent-binary-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajGahoi/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Greedy
 |  |
