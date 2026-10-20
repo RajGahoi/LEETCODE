@@ -481,6 +481,7 @@ Current Status:
 | [0951-flip-equivalent-binary-trees](https://github.com/RajGahoi/LEETCODE/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajGahoi/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2236-root-equals-sum-of-children](https://github.com/RajGahoi/LEETCODE/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
@@ -509,6 +510,7 @@ Current Status:
 | [0951-flip-equivalent-binary-trees](https://github.com/RajGahoi/LEETCODE/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajGahoi/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2236-root-equals-sum-of-children](https://github.com/RajGahoi/LEETCODE/tree/master/2236-root-equals-sum-of-children) |
 ## Greedy
 |  |
 | ------- |
