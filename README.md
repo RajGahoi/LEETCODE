@@ -121,6 +121,7 @@ Current Status:
 | [0066-plus-one](https://github.com/RajGahoi/LEETCODE/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/RajGahoi/LEETCODE/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/RajGahoi/LEETCODE/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/RajGahoi/LEETCODE/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/RajGahoi/LEETCODE/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/RajGahoi/LEETCODE/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0445-add-two-numbers-ii) |
@@ -261,6 +262,7 @@ Current Status:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RajGahoi/LEETCODE/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/RajGahoi/LEETCODE/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/RajGahoi/LEETCODE/tree/master/0495-teemo-attacking) |
 | [1260-shift-2d-grid](https://github.com/RajGahoi/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RajGahoi/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -395,6 +397,7 @@ Current Status:
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/RajGahoi/LEETCODE/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RajGahoi/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/RajGahoi/LEETCODE/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RajGahoi/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
