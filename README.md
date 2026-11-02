@@ -370,6 +370,7 @@ Current Status:
 | [0111-minimum-depth-of-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajGahoi/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0841-keys-and-rooms](https://github.com/RajGahoi/LEETCODE/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajGahoi/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/RajGahoi/LEETCODE/tree/master/0967-numbers-with-same-consecutive-differences) |
@@ -423,6 +424,7 @@ Current Status:
 | [0543-diameter-of-binary-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RajGahoi/LEETCODE/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajGahoi/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0841-keys-and-rooms](https://github.com/RajGahoi/LEETCODE/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajGahoi/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0951-flip-equivalent-binary-trees](https://github.com/RajGahoi/LEETCODE/tree/master/0951-flip-equivalent-binary-trees) |
 | [1020-number-of-enclaves](https://github.com/RajGahoi/LEETCODE/tree/master/1020-number-of-enclaves) |
@@ -565,6 +567,7 @@ Current Status:
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/RajGahoi/LEETCODE/tree/master/0841-keys-and-rooms) |
 | [3310-remove-methods-from-project](https://github.com/RajGahoi/LEETCODE/tree/master/3310-remove-methods-from-project) |
 ## Minimax
 |  |
