@@ -74,6 +74,7 @@ Current Status:
 | [0004-median-of-two-sorted-arrays](https://github.com/RajGahoi/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/RajGahoi/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/RajGahoi/LEETCODE/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/RajGahoi/LEETCODE/tree/master/0136-single-number) |
 | [0229-majority-element-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/RajGahoi/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/RajGahoi/LEETCODE/tree/master/0486-predict-the-winner) |
@@ -299,6 +300,7 @@ Current Status:
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RajGahoi/LEETCODE/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/RajGahoi/LEETCODE/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/RajGahoi/LEETCODE/tree/master/0342-power-of-four) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/RajGahoi/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RajGahoi/LEETCODE/tree/master/3513-number-of-unique-xor-triplets-i) |
