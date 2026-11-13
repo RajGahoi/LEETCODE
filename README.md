@@ -82,6 +82,7 @@ Current Status:
 | [0628-maximum-product-of-three-numbers](https://github.com/RajGahoi/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/RajGahoi/LEETCODE/tree/master/0877-stone-game) |
 | [1020-number-of-enclaves](https://github.com/RajGahoi/LEETCODE/tree/master/1020-number-of-enclaves) |
+| [1051-height-checker](https://github.com/RajGahoi/LEETCODE/tree/master/1051-height-checker) |
 | [1140-stone-game-ii](https://github.com/RajGahoi/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/RajGahoi/LEETCODE/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1260-shift-2d-grid](https://github.com/RajGahoi/LEETCODE/tree/master/1260-shift-2d-grid) |
@@ -250,6 +251,7 @@ Current Status:
 | [0229-majority-element-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/RajGahoi/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RajGahoi/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1051-height-checker](https://github.com/RajGahoi/LEETCODE/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/RajGahoi/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RajGahoi/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RajGahoi/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -560,6 +562,7 @@ Current Status:
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/RajGahoi/LEETCODE/tree/master/1051-height-checker) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RajGahoi/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Combinatorics
 |  |
@@ -621,4 +624,8 @@ Current Status:
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajGahoi/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajGahoi/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/RajGahoi/LEETCODE/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
