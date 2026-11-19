@@ -79,6 +79,7 @@ Current Status:
 | [0414-third-maximum-number](https://github.com/RajGahoi/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/RajGahoi/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/RajGahoi/LEETCODE/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/RajGahoi/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RajGahoi/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/RajGahoi/LEETCODE/tree/master/0877-stone-game) |
 | [1020-number-of-enclaves](https://github.com/RajGahoi/LEETCODE/tree/master/1020-number-of-enclaves) |
@@ -163,6 +164,7 @@ Current Status:
 | [0142-linked-list-cycle-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/RajGahoi/LEETCODE/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/RajGahoi/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RajGahoi/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajGahoi/LEETCODE/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajGahoi/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -225,6 +227,7 @@ Current Status:
 | [0232-implement-queue-using-stacks](https://github.com/RajGahoi/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/RajGahoi/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/RajGahoi/LEETCODE/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/RajGahoi/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RajGahoi/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Recursion
 |  |
@@ -541,6 +544,7 @@ Current Status:
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/RajGahoi/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/RajGahoi/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Segment Tree
 |  |
