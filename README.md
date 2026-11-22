@@ -339,6 +339,7 @@ Current Status:
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RajGahoi/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1528-shuffle-string](https://github.com/RajGahoi/LEETCODE/tree/master/1528-shuffle-string) |
 | [1927-sum-game](https://github.com/RajGahoi/LEETCODE/tree/master/1927-sum-game) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/RajGahoi/LEETCODE/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RajGahoi/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RajGahoi/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/RajGahoi/LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
