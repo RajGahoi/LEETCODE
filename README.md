@@ -93,6 +93,7 @@ Current Status:
 | [1528-shuffle-string](https://github.com/RajGahoi/LEETCODE/tree/master/1528-shuffle-string) |
 | [1563-stone-game-v](https://github.com/RajGahoi/LEETCODE/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/RajGahoi/LEETCODE/tree/master/1872-stone-game-viii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/RajGahoi/LEETCODE/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RajGahoi/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/RajGahoi/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/RajGahoi/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -387,6 +388,7 @@ Current Status:
 | [0967-numbers-with-same-consecutive-differences](https://github.com/RajGahoi/LEETCODE/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1020-number-of-enclaves](https://github.com/RajGahoi/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajGahoi/LEETCODE/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/RajGahoi/LEETCODE/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RajGahoi/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/RajGahoi/LEETCODE/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -405,6 +407,7 @@ Current Status:
 | ------- |
 | [1020-number-of-enclaves](https://github.com/RajGahoi/LEETCODE/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/RajGahoi/LEETCODE/tree/master/1260-shift-2d-grid) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/RajGahoi/LEETCODE/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RajGahoi/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Number Theory
 |  |
